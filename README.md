@@ -42,5 +42,5 @@ beschrijving](./media/image1.png)
     winst of verlies van die ronde
 
 -   Een virtueel deck wordt in de achtergrond gesimuleerd. Elke
-    getrokken kaart wordt uit het deck verwijdert en toegevoegd aan de
+    getrokken kaart wordt uit het deck verwijderd en toegevoegd aan de
     geschiedenis met het gemaakte verschil in punten
